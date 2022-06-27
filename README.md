@@ -1,2 +1,5 @@
-# solid-l4wucug2
-Created with WebComponents.dev
+# Solid Starter Kit
+
+### Links
+
+- [GitHub](https://github.com/ryansolid/solid)

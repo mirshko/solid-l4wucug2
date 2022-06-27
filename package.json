@@ -1,0 +1,11 @@
+{
+  "name": "@wcd/null.solid-l4wucug2",
+  "version": "0.0.0",
+  "description": "",
+  "license": "ISC",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve cRJiMetNt5bpknonNiQE --open"
+  }
+}
